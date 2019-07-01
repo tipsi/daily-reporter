@@ -32,7 +32,7 @@ module.exports = {
       type: 'list',
       name: 'taskType',
       message: 'Выберите тип проекта, над которым вы обычно работаете',
-      choices: ['RNA', 'BACK'],
+      choices: ['RNA', 'BACK', 'WEB'],
     },
   ],
   callback: (answers) => {

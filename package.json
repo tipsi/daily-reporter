@@ -1,6 +1,6 @@
 {
-  "name": "@isnifer/daily-reporter",
-  "version": "1.1.4",
+  "name": "tipsi-daily-reporter",
+  "version": "1.1.5",
   "description": "CLI tool for daily reports",
   "main": "index.js",
   "bin": {
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isnifer/daily-reporter.git"
+    "url": "git+https://github.com/tipsi/daily-reporter.git"
   },
   "keywords": [],
   "author": "Anton Kuznetsov <isnifer@gmail.com> (https://github.com/isnifer)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/isnifer/daily-reporter/issues"
+    "url": "https://github.com/tipsi/daily-reporter/issues"
   },
-  "homepage": "https://github.com/isnifer/daily-reporter#readme",
+  "homepage": "https://github.com/tipsi/daily-reporter#readme",
   "dependencies": {
     "clipboardy": "1.2.3",
     "inquirer": "^6.2.2",
